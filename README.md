@@ -1,5 +1,5 @@
 This is my learning and re-write some code from this project:
-https://github.com/tensorflow/models/tree/master/research/astronet
+https://github.com/google-research/exoplanet-ml/tree/master/exoplanet-ml/astronet
 
 Main modifications:
 1) Re-wrote the CNN model in Keras framework
